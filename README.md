@@ -1,7 +1,7 @@
 gomikuji
 ========
 
-Omikuji written Go lang.
+Omikuji written in Go lang.
 
 How to run
 --------
